@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56251726721",
+    "firebase_url": "https://doesapp-4e3c1.firebaseio.com",
+    "project_id": "doesapp-4e3c1",
+    "storage_bucket": "doesapp-4e3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56251726721:android:a3caaddd4c4e3232",
+        "android_client_info": {
+          "package_name": "com.example.taufiq.doesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56251726721-8qf2opua7a3lj78nv7nviplfgvtshk5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taufiq.doesapp",
+            "certificate_hash": "8f7fe2e70e84d798547e8aa7b860b28033974c80"
+          }
+        },
+        {
+          "client_id": "56251726721-qo1hro3uburf7fuv6bo4qm2hkjcbr8nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnC8LY_pCMrnvT0TsVEvuginQBy9XVDOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56251726721-qo1hro3uburf7fuv6bo4qm2hkjcbr8nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
